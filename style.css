@@ -1,0 +1,80 @@
+html, head, body {
+  padding: 0px;
+  margin: 0px auto;
+  width: 80%;
+  line-height: 130%;
+}
+
+/*body{
+	background: #ccffff;
+}*/
+
+table {
+  margin-top: 10px;
+}
+
+/*#layout-bar {
+	background: #E0F0FF;
+	border: 1px solid #dddddd;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:20px;
+	width: auto;
+	font-size: 15px;
+}*/
+
+#ea {
+  padding-top: 10px;
+}
+
+#leftside {
+  padding: 40px 20px 40px 0px;
+  float: left;
+  position: relative;
+  top: -275px;
+}
+
+#pic {
+  margin-left: 250px;
+}
+
+#header {
+  display: inline-block;
+}
+
+#info {
+  clear: left;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-size: 20px;
+}
+
+#main {
+  margin-top: -150px;
+}
+
+#name {
+  font-size: 30px;
+}
+
+/*#about, #name, #details{
+	position:relative;
+	left: 20px;
+}*/
+
+p, ul, ol {
+  font-size: 15px;
+}
+
+div.num {
+  margin-top: 5px;
+}
+
+body, #activity, #about, #name, #details {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#layout-bar a {
+  line-height: 1.5em;
+}
